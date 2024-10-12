@@ -1,0 +1,269 @@
+
+@font-face {
+    font-family: "AmazonEmber_Lt";
+    src: url("../font/Amazon_Typefaces_Complete_Font_Set_Mar2020/Ember/AmazonEmber_Lt.ttf");
+}
+
+
+body{
+    width: 1920px;
+    height: 1080px;
+    margin: 0;  
+    background-color: #000000;
+    font-family: "AmazonEmber_Lt";
+}
+
+.principal{
+    background: transparent url('../img/FondoTwitch.png') 0% 0% no-repeat padding-box;
+    background-repeat: no-repeat;
+    width: 1920px;
+    height: 1080px;
+    background-size: cover;
+    padding: 18px;
+}
+
+.p-nav{
+
+    position: relative;
+    width: 1920px;
+    height: 75px;
+}
+
+
+.group{
+    position: absolute;
+    right: 0;
+}
+.p-nav p {
+    position: absolute;
+    right: 75px;
+    font-size: 20px;
+    top: -5px;
+}
+
+.segundo{
+    position: relative;
+    width: 1151px;
+    height: 696px;
+    left: 389px;
+    text-align: center;
+}
+.favorite{
+    font-size: 60px;
+    font-weight: bold;
+    color: white;
+    margin: 0 0 48px 0;
+}
+
+
+
+
+.p-primero, .p-segundo{
+    color: white;
+    font-size: 30px;
+    margin: 0;
+}
+
+.sign{
+    position: absolute;
+    width: 458px;
+    height: 104px;
+    background-color: white;
+    border-radius: 100px;
+    bottom: 0px;
+    left: 350px;
+    font-size: 40px;
+    margin-top: 10px;
+}
+
+.sign-amazon{
+    margin-top: 32px;
+}
+
+
+.tercero{
+    position: relative;
+    padding-top: 253px;
+    left: 78px;
+    margin-bottom: 288px;
+}
+.live{
+    top: 1106px;
+    left: 70px;
+    width: 1792px;
+    height: 567px;
+    background-image: url("../img/Group\ 2.svg");
+}
+
+
+.watch-live{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    padding-top: 79px;
+    padding-bottom: 79px;
+    top: 1106px;
+    left: 70px;
+    width: 1792px;
+    height: 580px;
+    background-repeat: no-repeat;
+    background-image: url(../img/Rectangle\ 3.png);
+    color: white;
+}
+
+.watch{
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+   
+}
+
+.peliculas{
+    padding-top: 50px;
+}
+
+.peliculas img p{
+    position: absolute;
+   
+}
+
+.peliculas .uno{
+    left: 413px;
+}
+
+.peliculas .dos{
+    left: 606px;
+}
+
+.peliculas .tres{
+    left: 799px;
+}
+
+
+.peliculas .cuatro{
+    left: 991px;
+}
+
+
+.peliculas .cinco{
+    right: 554px;
+    
+}
+
+
+.watch-live p{
+    color: white;
+    bottom: 0;
+}
+
+.find{
+    position: absolute;
+}
+
+.peliculas p {
+    margin: 0;
+    font-size:40px;
+}
+
+.primer-live{
+    margin-top: 39px;
+}
+
+
+.watch-live-segundo{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    padding-top: 79px;
+    padding-bottom: 79px;
+    top: 1106px;
+    left: 70px;
+    width: 1792px;
+    height: 473px;
+    background-repeat: no-repeat;
+    background-image: url(../img/Rectangle\ 3-1.svg);
+    color: white;
+
+}
+
+
+
+.watch-live-tercero{
+   
+    margin-bottom: 50px;
+    text-align: center;
+    padding-bottom: 79px;
+    top: 1106px;
+    left: 70px;
+    width: 1792px;
+    height: 580px;
+    color: white;
+
+}
+
+.watch-tercero{
+    margin-bottom: 54px;
+    font-size: 125px;
+}
+
+.primer-live-terecero{
+    font-size: 45px;
+    margin: 0;
+}
+
+.peliculas-tercero{
+    position: relative;
+}
+
+.peliculas-tercero .seis{
+    position: absolute;
+    left: 384px;
+    top: 99px;
+}
+
+.peliculas-tercero .siete{
+    position: absolute;
+    left: 605px;
+}
+.peliculas-tercero .ocho{
+    position: absolute;
+    right: 388px;
+    top: 99px;
+}
+
+.prime{
+    margin: 0;
+}
+
+
+.img{
+    bottom: 0;
+    width: 50px;
+    height: 50px;
+}
+
+
+.img img{
+    position: absolute;
+    left: 611px;
+}
+
+
+.peliculas-tercero .nueve {
+    position: absolute;
+    left: 303px;
+    top: 185px;
+    width: 19px;
+    height: 27px;
+}
+
+.peliculas-tercero .diez {
+    position: absolute;
+    width: 18px;
+    height: 26px;
+    right: 327px;
+    top: 185px;
+    transform: scaleX(-1) scaleY(-1);
+}
+
+
